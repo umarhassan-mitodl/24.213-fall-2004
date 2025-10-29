@@ -6,8 +6,6 @@ description: This resource shows an image of filming a burlesque on the burning 
 file: /courses/24-213-philosophy-of-film-fall-2004/39c35f5ff83c002d70bc79ba97d05ad6_chp_phil_film.jpg
 file_size: 69506
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

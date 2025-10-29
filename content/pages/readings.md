@@ -12,9 +12,9 @@ uid: 69e962f2-9d29-e21d-3bd7-c9a543935e2d
 Required Texts
 --------------
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/reality-transformed) Singer, Irving. [_Reality Transformed: Film as Meaning and Technique_](https://mitpress.mit.edu/books/reality-transformed). Cambridge, Mass.: MIT Press, 1998. ISBN: 0262692481.
+{{% resource_link "e2d8c25a-a4c2-4249-b68f-3e178a36da30" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Singer, Irving. {{% resource_link "e2d8c25a-a4c2-4249-b68f-3e178a36da30" "_Reality Transformed: Film as Meaning and Technique_" %}}. Cambridge, Mass.: MIT Press, 1998. ISBN: 0262692481.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/three-philosophical-filmmakers) ———. [_Three Philosophical Filmmakers: Hitchcock, Welles, Renoir_](https://mitpress.mit.edu/books/three-philosophical-filmmakers). Cambridge, Mass.: MIT Press, 2004. ISBN: 0262195011.
+{{% resource_link "63638b03-dcde-4f0d-bdc2-d06768d6093b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} ———. {{% resource_link "63638b03-dcde-4f0d-bdc2-d06768d6093b" "_Three Philosophical Filmmakers: Hitchcock, Welles, Renoir_" %}}. Cambridge, Mass.: MIT Press, 2004. ISBN: 0262195011.
 
 Where available, links to more information about each film viewed in the course have been made to the Internet Movie Database.
 
@@ -38,7 +38,7 @@ TOPICS/READINGS
 {{< tdopen >}}
 Introduction  
   
-Film: Cocteau, Jean. [_Beauty and the Beast_](http://www.imdb.com/title/tt0038348/) (1946).
+Film: Cocteau, Jean. {{% resource_link "093199c8-a2b3-44d8-b87a-31d4f2860100" "_Beauty and the Beast_" %}} (1946).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +49,7 @@ Film: Cocteau, Jean. [_Beauty and the Beast_](http://www.imdb.com/title/tt003834
 {{< tdopen >}}
 Singer, Irving. _Reality Transformed._ pp. i-xiv, 1-50.  
   
-Film: Welles, Orson. [_Citizen Kane_](http://www.imdb.com/title/tt0033467/) (1941).
+Film: Welles, Orson. {{% resource_link "06e86fb9-0913-4189-a75d-504e3048e9b7" "_Citizen Kane_" %}} (1941).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +60,7 @@ Film: Welles, Orson. [_Citizen Kane_](http://www.imdb.com/title/tt0033467/) (194
 {{< tdopen >}}
 Singer, Irving. _Reality Transformed_. pp. 53-78.  
   
-Film: Allen, Woody. [_The Purple Rose of Cairo_](http://www.imdb.com/title/tt0089853/) (1985).
+Film: Allen, Woody. {{% resource_link "0e84a557-471b-4a4d-8205-fb4ba1d1091b" "_The Purple Rose of Cairo_" %}} (1985).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +71,7 @@ Film: Allen, Woody. [_The Purple Rose of Cairo_](http://www.imdb.com/title/tt008
 {{< tdopen >}}
 Singer, Irving. _Reality Transformed_. pp. 81-127.  
   
-Film: Visconti, Luchino. [_Death in Venice_](http://www.imdb.com/title/tt0067445/) (1971).
+Film: Visconti, Luchino. {{% resource_link "3f61c82b-9822-45ed-9a60-7310233ed85f" "_Death in Venice_" %}} (1971).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +82,7 @@ Film: Visconti, Luchino. [_Death in Venice_](http://www.imdb.com/title/tt0067445
 {{< tdopen >}}
 Singer, Irving. _Reality Transformed_. pp. 131-189.  
   
-Film: Renoir, Jean. [_The Rules of the Game_](http://www.imdb.com/title/tt0031885/) (1939).
+Film: Renoir, Jean. {{% resource_link "6fd1e9da-53cf-46e9-93ac-80070a9a5829" "_The Rules of the Game_" %}} (1939).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +93,7 @@ Film: Renoir, Jean. [_The Rules of the Game_](http://www.imdb.com/title/tt003188
 {{< tdopen >}}
 Singer, Irving. _Reality Transformed_. pp. 191-200.  
   
-Film: Hitchcock, Alfred. [_The 39 Steps_](http://www.imdb.com/title/tt0026029/) (1935).
+Film: Hitchcock, Alfred. {{% resource_link "890b4aa9-f474-4f76-85c4-0459e393f12a" "_The 39 Steps_" %}} (1935).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ Film: Hitchcock, Alfred. [_The 39 Steps_](http://www.imdb.com/title/tt0026029/) 
 {{< tdopen >}}
 Singer, Irving. _Three Philosophical Filmmakers_. pp. ix-46.  
   
-Film: Hitchcock, Alfred. [_Psycho_](http://www.imdb.com/title/tt0054215/) (1960).
+Film: Hitchcock, Alfred. {{% resource_link "9e6540ec-9ea3-4d9f-8ac9-448877c775f1" "_Psycho_" %}} (1960).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +126,7 @@ Video: _Camera Three: The Illustrated Hitchcock_. Interview with Pia Lindstrom, 
 {{< tdopen >}}
 Singer, Irving. _Three Philosophical Filmmakers_. pp. 77-145.  
   
-Film: Hitchcock, Alfred. [_Vertigo_](http://www.imdb.com/title/tt0052357/) (1958).
+Film: Hitchcock, Alfred. {{% resource_link "b26003a1-4b85-4b50-a201-b265fbb672a1" "_Vertigo_" %}} (1958).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +148,7 @@ Video: _Orson Welles: Stories From a Life in Film_. Interview with Leslie Megahe
 {{< tdopen >}}
 Singer, Irving. _Three Philosophical Filmmakers_. pp. 178-219.  
   
-Film: Welles, Orson. [_The Magnificent Ambersons_](http://www.imdb.com/title/tt0035015/) (1942).
+Film: Welles, Orson. {{% resource_link "ce689d33-07eb-4818-ac04-d647f9b17bb5" "_The Magnificent Ambersons_" %}} (1942).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -159,7 +159,7 @@ Film: Welles, Orson. [_The Magnificent Ambersons_](http://www.imdb.com/title/tt0
 {{< tdopen >}}
 Singer, Irving. _Three Philosophical Filmmakers_. pp. 221-257.  
   
-Film: Renoir, Jean. [_The Crime of Monsieur Lange_](http://www.imdb.com/title/tt0027478/) (1936).
+Film: Renoir, Jean. {{% resource_link "e8cc6755-05b9-4b8a-8315-08a4bba6f693" "_The Crime of Monsieur Lange_" %}} (1936).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +170,7 @@ Film: Renoir, Jean. [_The Crime of Monsieur Lange_](http://www.imdb.com/title/tt
 {{< tdopen >}}
 Discussion  
   
-Film: Renoir, Jean. _Le Roi d'Yvetot_ (on [_Petit Théâtre de Jean Renoir_](http://www.imdb.com/title/tt0067571/) (1971)).
+Film: Renoir, Jean. _Le Roi d'Yvetot_ (on {{% resource_link "0842b66e-1292-4c5b-aa52-a4a24ebab690" "_Petit Théâtre de Jean Renoir_" %}} (1971)).
 {{< tdclose >}}
 
 {{< trclose >}}

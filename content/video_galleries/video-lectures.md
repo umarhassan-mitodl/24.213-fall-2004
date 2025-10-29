@@ -3,8 +3,6 @@ content_type: video_gallery
 description: During the fall of 2004, four sessions of 24.213 were recorded especially
   for OpenCourseWare. This section features links to the videos, along with breakdowns
   of the video content.
-hide_download: true
-hide_download_original: null
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos

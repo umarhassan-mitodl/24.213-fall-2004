@@ -4,8 +4,6 @@ description: 'Example of student work: an essay on human barriers in Renoir and 
 file: /courses/24-213-philosophy-of-film-fall-2004/faa605b84e7cc54709ba9f1e27e5880c_renoir_cop_ppr.pdf
 file_size: 130947
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
